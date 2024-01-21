@@ -8,8 +8,6 @@ from aiogram import Bot, Dispatcher, types
 from config import BOT_TOKEN
 from algorithm import my_algo, check_collection, QUERY
 
-"""Токен не прятал)"""
-
 dp = Dispatcher()
 
 
